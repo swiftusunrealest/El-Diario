@@ -8,7 +8,7 @@ layout: default
 
 I'm not a fan of sayings, but I always try and keep this one in mind.
 
-> You judge others by their actions, but you judge yourself by your intentions
+> You judge others by their actions, but yourself by your intentions
 
 #nonsayings
 
