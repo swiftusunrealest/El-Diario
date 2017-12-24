@@ -4,6 +4,22 @@ layout: default
 
 # [](#header-1)Because I want to write
 
+## [](#header-2)#3 I know I shouldn't, but...
+
+How I judge people when meeting them in a business environment...
+
+"If it came to it, would they push me off a cliff for personal gain?"
+
+It's surprisingly accurate.
+
+#work
+
+## [](#header-2)#3 Selfies
+
+If more than half of your Instagram posts are selfies, I will think you're vain.
+
+#people
+
 ## [](#header-2)#2 The Count of Monte Cristo - Alexandre Dumas
 
 > Hope and wait
