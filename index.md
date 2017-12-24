@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1)Because I want to write
 
-## [](#header-2)#4 Careful not to jump to conclusions
+## [](#header-2)#5 Careful not to jump to conclusions
 
 I'm not a fan of sayings, but I always try and keep this one in mind.
 
@@ -12,7 +12,7 @@ I'm not a fan of sayings, but I always try and keep this one in mind.
 
 #nonsayings
 
-## [](#header-2)#3 I know I shouldn't, but...
+## [](#header-2)#4 I know I shouldn't, but...
 
 How I judge people when meeting them in a business environment...
 
