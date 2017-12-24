@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1)Because I want to write
 
-## [](#header-2)#4 Non-saying
+## [](#header-2)#4 Careful not to jump to conclusions
 
 I'm not a fan of sayings, but I always try and keep this one in mind.
 
